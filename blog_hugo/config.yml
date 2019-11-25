@@ -88,7 +88,7 @@ params:
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: Codeflint Blog
-    author_title: AI . Data . Scale
+    author_title: AI • Data • Scale
     author_description: We Ignite Innovation through Code, Math and Design!
     location: Munich, Germany
     follow: https://codeflint.github.io
@@ -116,7 +116,7 @@ params:
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
   share:
     enable: true # 是否启用分享
-    sites: facebook,twitter,linkedin,google # PC端显示的分享图标
+    sites: facebook,twitter,linkedin # PC端显示的分享图标
     # mobile_sites: weibo,qq,qzone # 移动端显示的分享图标
 
   # Comment
