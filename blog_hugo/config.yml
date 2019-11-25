@@ -87,8 +87,8 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: Codeflint
-    author_title: AI ❤️ Data ❤️ Scale
+    author: Codeflint Blog
+    author_title: AI . Data . Scale
     author_description: We Ignite Innovation through Code, Math and Design!
     location: Munich, Germany
     follow: https://codeflint.github.io
@@ -121,7 +121,7 @@ params:
 
   # Comment
   comment:
-    type:  # type disqus/gitalk/valine 启用哪种评论系统
+    type:  disqus # type disqus/gitalk/valine 启用哪种评论系统
     disqus: codeflint # enter disqus shortname here
     gitalk: # gitalk. https://gitalk.github.io/
       owner: #必须. GitHub repository 所有者，可以是个人或者组织。
@@ -169,7 +169,7 @@ params:
 
   # config
   config:
-    skin: # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
+    skin:  # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
     layout: main-center # 布局方式 main-left main-center main-right
     excerpt_link: Read More
     toc: true

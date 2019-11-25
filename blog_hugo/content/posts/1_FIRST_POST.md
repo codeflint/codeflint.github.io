@@ -1,6 +1,8 @@
 ---
 title: "First Post"
 date: 2019-11-25T20:08:57+01:00
+layout: default
+comments: true
 draft: false
 ---
 

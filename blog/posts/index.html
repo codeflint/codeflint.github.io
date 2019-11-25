@@ -63,8 +63,8 @@
           <a id="avatar" href="https://codeflint.github.io">
             <img class="img-circle img-rotate" src="https://codeflint.github.io/blog/avatar.png" width="200" height="200">
           </a>
-          <h2 id="name" class="hidden-xs hidden-sm">Codeflint</h2>
-          <h3 id="title" class="hidden-xs hidden-sm hidden-md">AI ❤️ Data ❤️ Scale</h3>
+          <h2 id="name" class="hidden-xs hidden-sm">Codeflint Blog</h2>
+          <h3 id="title" class="hidden-xs hidden-sm hidden-md">AI . Data . Scale</h3>
           <small id="location" class="text-muted hidden-xs hidden-sm"><i class="icon icon-map-marker"></i>Munich, Germany</small>
         </div><div class="search" id="search-form-wrap">
     <form class="search-form sidebar-form">
@@ -276,6 +276,18 @@ hljs.initHighlightingOnLoad();
       </script>
 <script type="text/javascript" src="https://codeflint.github.io/blog/js/insight.js"></script>
 
+<script defer>
+    var disqus_config = function () {
+        this.page.url = 'https:\/\/codeflint.github.io\/blog\/posts\/';
+        this.page.identifier = 'codeflint';
+    };
+    (function () {
+        var d = document, s = d.createElement('script');
+        s.src = '//' + 'codeflint' + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
 
   </body>
 </html>
