@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Codeflint Blog</title>
+    <link>http://codeflint.github.io/blog/categories/</link>
+    <description>Recent content in Categories on Codeflint Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+        <atom:link href="http://codeflint.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>http://codeflint.github.io/blog/2019/11/1_first_post/</link>
+      <pubDate>Mon, 25 Nov 2019 20:08:57 +0100</pubDate>
+      
+      <guid>http://codeflint.github.io/blog/2019/11/1_first_post/</guid>
+      <description>Hello and welcome to Codeflint Blog.
+There will be more content posted here soon.
+Thanks a lot for visiting!</description>
+    </item>
+    
+  </channel>
+</rss>
