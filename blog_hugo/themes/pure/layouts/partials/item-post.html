@@ -1,0 +1,5 @@
+<a href="{{- .Permalink }}" class="collection-item" itemprop="url"  target="_blank" >
+    <time datetime="{{ .Date }}"
+        itemprop="datePublished">{{- .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}</time>
+    <span>&nbsp;&nbsp;&nbsp;</span> {{- .Title }}
+</a>
